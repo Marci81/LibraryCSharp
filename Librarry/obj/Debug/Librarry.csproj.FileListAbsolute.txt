@@ -1,0 +1,11 @@
+C:\Asztalon volt dolgok\CSharp\LibraryCSharp\Librarry\bin\Debug\Librarry.exe.config
+C:\Asztalon volt dolgok\CSharp\LibraryCSharp\Librarry\bin\Debug\Librarry.exe
+C:\Asztalon volt dolgok\CSharp\LibraryCSharp\Librarry\bin\Debug\Librarry.pdb
+C:\Asztalon volt dolgok\CSharp\LibraryCSharp\Librarry\obj\Debug\Librarry.csprojAssemblyReference.cache
+C:\Asztalon volt dolgok\CSharp\LibraryCSharp\Librarry\obj\Debug\Librarry.Properties.Resources.resources
+C:\Asztalon volt dolgok\CSharp\LibraryCSharp\Librarry\obj\Debug\Librarry.csproj.GenerateResource.cache
+C:\Asztalon volt dolgok\CSharp\LibraryCSharp\Librarry\obj\Debug\Librarry.csproj.CoreCompileInputs.cache
+C:\Asztalon volt dolgok\CSharp\LibraryCSharp\Librarry\obj\Debug\Librarry.exe
+C:\Asztalon volt dolgok\CSharp\LibraryCSharp\Librarry\obj\Debug\Librarry.pdb
+C:\Asztalon volt dolgok\CSharp\LibraryCSharp\Librarry\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Asztalon volt dolgok\CSharp\LibraryCSharp\Librarry\obj\Debug\Librarry.csproj.CopyComplete
